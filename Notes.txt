@@ -1,0 +1,10 @@
+We can compile flies in python by using command
+"python -m compileall myscript.py"
+or "python -m py_compile myscript.py"
+where myscript is the file name in first if we not mention the file name then it will compile the whole directory
+and after compileing files(like .class files) are stored in the _pycache_ folder and extion is .pyc
+A .pyc file is created inside the __pycache__ directory (e.g., __pycache__/myscript.cpython-38.pyc)
+====================================================================================================
+for direct run a python file we use "python filename.py"
+======================================================
+len() it is a function to find length of string
