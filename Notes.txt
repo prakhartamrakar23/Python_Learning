@@ -10,3 +10,12 @@ for direct run a python file we use "python filename.py"
 len() it is a function to find length of string
 With the help of the range() function, we may produce a series of numbers. range(10) will produce values between 0 and 9. (10 numbers).
 In Python, the end parameter of the print() function is used to specify what should be printed at the end of the output, instead of the default newline character (\n).
+===============================================================
+in strings slice operator [] is used to get individual character
+and colon [:] it is used to provide the range from 0 to length
+==============================================================
+difference between capitalize and title
+
+Method	Effect
+capitalize()	Capitalizes the first character of the string and turns all other characters to lowercase.
+title()	Capitalizes the first letter of each word (separated by spaces or punctuation) and turns other letters to lowercase.
