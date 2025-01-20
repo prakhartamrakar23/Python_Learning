@@ -19,3 +19,7 @@ difference between capitalize and title
 Method	Effect
 capitalize()	Capitalizes the first character of the string and turns all other characters to lowercase.
 title()	Capitalizes the first letter of each word (separated by spaces or punctuation) and turns other letters to lowercase.
+===================================================================================================
+In Decorators, functions are passed as an argument into another function and then called inside the wrapper function.
+The function can be referenced and passed to a variable and returned from other functions as well.
+The functions can be declared inside another function and passed as an argument to another function.
